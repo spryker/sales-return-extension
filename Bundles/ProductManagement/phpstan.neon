@@ -1,5 +1,0 @@
-parameters:
-    checkGenericClassInNonGenericObjectType: false
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Strict comparison using !== between null and null will always evaluate to false.#'

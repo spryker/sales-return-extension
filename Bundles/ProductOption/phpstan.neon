@@ -1,5 +1,0 @@
-parameters:
-    checkGenericClassInNonGenericObjectType: false
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Cannot access offset .+ on .+SpyProductOptionValue.#'
